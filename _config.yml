@@ -20,7 +20,7 @@ navbar-links:
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://bokim1122.github.io"
+  Author's home: "https://bogoankim.github.io"
 
 # --- Logo --- #
 
@@ -45,7 +45,7 @@ social-network-links:
   linkedin: bogoankim 
   ORCID: https://orcid.org/0000-0002-9083-1128
   google-scholar: https://scholar.google.co.kr/citations?user=A0GP9pYAAAAJ&hl=ko
-  github: bokim1122
+  github: bogoankim
 
 #   facebook: deanattali
 #   github: daattali
