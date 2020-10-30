@@ -32,5 +32,5 @@ A Ph.D student
 
 <p class="about-text">
 <span class="fa fa-globe-asia about-icon"></span>
-I love to eat fried chickens</i>.
+I love to eat fried <strong>chickens</strong>
 </p>
