@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Bo's Personal Website
+title: Seungwan's Personal Website
 
 # Your name to show in the footer
-author: Bogoan Kim
+author: Seungwan Jin
 
 # --- List of links in the navigation bar --- #
 
@@ -20,7 +20,7 @@ navbar-links:
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://bogoankim.github.io"
+  Author's home: "https://seungwanjin.github.io"
 
 # --- Logo --- #
 
@@ -41,12 +41,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "bokim1122@gmail.com"
-  linkedin: bogoankim 
-  ORCID: 0000-0002-9083-1128
-  google-scholar: citations?user=A0GP9pYAAAAJ&hl=en
-  cv: https://drive.google.com/file/d/12x66e84vvJ0BQvesTjFcG_A643V2pIwU/view?usp=sharing
-  #github: bogoankim
+  email: "jin6491@gmail.com"
+  linkedin: seungwanjin 
+  #ORCID: 0000-0002-9083-1128
+  google-scholar: citations?hl=ko&user=pTAQBokAAAAJ
+  #cv: https://drive.google.com/file/d/12x66e84vvJ0BQvesTjFcG_A643V2pIwU/view?usp=sharing
+  github: seungwanjin
 
 #   facebook: deanattali
 #   github: daattali
@@ -78,7 +78,6 @@ footer-links-active:
   email: true
   github: false
   ORCID: true
-  linkedin: true
   linkedin: true
   google-scholar: true
 
